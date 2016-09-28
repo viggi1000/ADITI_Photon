@@ -40,7 +40,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "application.h"
 #define REPORTING_PERIOD_MS     1000
 #define slaveAddress 0x5A
-char auth[] = "f34f7ba8784c4660a33a8cc37bc3c220";
+char auth[] = ""; //Use your auth token from blynk app
 
 // Lib instantiate
 
