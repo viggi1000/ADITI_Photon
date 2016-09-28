@@ -1,0 +1,2 @@
+# ADITI_Photon
+ADITI: Affordable Diagnostics Enabled Thermal Incubator. ADITI is a wearable body suit with thermal heating for premature birth children in developing countries. It monitors the Blood Oxygenation, HR, Body Temp, Respiration Rate For SpO2, HR the MAX30100 sensor was used, For respiration sensing a custom Piezoresistive sensor was used. LM35 for Body Temperature. It uses a 40V N-MOSFET to drive a LiTex heating textile at 9V using PWM (PID heating to be added)
